@@ -5,7 +5,7 @@
 ---
 
 ## Professional Summary
-Detail-oriented infrastructure engineering professional pursuing a B-Tech in Computer Science and Data Science. Proven expertise in cloud computing environments, network architecture, and security fundamentals. Delivered a 400-hour technical internship focusing on enterprise-grade IT infrastructure, optimizing system administration while heavily leveraging advanced LLM assisted workflows to rapidly accelerate automation and architectural design.
+Detail-oriented infrastructure engineering professional pursuing a B-Tech in Computer Science & Engineering and Data Science. Proven expertise in cloud computing environments, network architecture, and security fundamentals. Delivered a 400-hour technical internship focusing on enterprise-grade IT infrastructure, optimizing system administration while heavily leveraging advanced LLM assisted workflows to rapidly accelerate automation and architectural design.
 
 ## Skills and Expertise
 * **Cloud & AWS Services:** AWS, Amazon S3, Amazon CloudFront, AWS IAM, Amazon VPC, AWS Lambda, Amazon DynamoDB, AWS Cognito, Amazon SES, AWS Amplify, Amazon API Gateway.
