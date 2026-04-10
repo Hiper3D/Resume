@@ -23,6 +23,7 @@ Detail-oriented infrastructure engineering professional pursuing a B-Tech in Com
 ## Education
 ### Bhubaneswar Engineering College | Bhubaneswar, Odisha
 **Bachelor of Technology in Computer Science & Engineering and Data Science**
+
 *Graduation: 2026*
 
 **Certifications:**
