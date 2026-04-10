@@ -25,8 +25,8 @@ Detail-oriented infrastructure engineering professional pursuing a B-Tech in Com
 **Bachelor of Technology in Computer Science & Engineering and Data Science**
 *Expected Graduation: 2026*
 
-**Current Certifications:**
-* AWS [Amazon Web Services - a comprehensive cloud computing platform] Cloud Support Associate Professional Certificate (In Progress)
+**Certifications:**
+* AWS Cloud Support Associate Professional Certificate (In Progress)
 
 ## Professional Development
 ### AWS 3-Tier Architecture Design | [GitHub](https://github.com/Hiper3D/aws-3-tier-architecture-design)
