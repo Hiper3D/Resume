@@ -32,7 +32,7 @@ Detail-oriented infrastructure engineering professional pursuing a B-Tech in Com
 ## Professional Development
 ### AWS 3-Tier Architecture Design | [GitHub](https://github.com/Hiper3D/aws-3-tier-architecture-design)
 * Architected a highly available 3-tier web infrastructure utilizing AWS.
-* Configured isolated network environments using VPC subnets, security groups, and routing tables to ensure secure traffic flow.
+* Configured isolated network environments using 3 core structural components: VPC subnets, security groups, and routing tables to ensure secure traffic flow.
 * Accelerated architecture deployment by utilizing advanced AI tools for infrastructure guidance and configuration script generation.
 
 ### Network Automation Tool | [GitHub](https://github.com/Hiper3D/network-automation-tool)
@@ -45,7 +45,7 @@ Detail-oriented infrastructure engineering professional pursuing a B-Tech in Com
 * Secured Amazon S3 origin storage by disabling public access and implementing OAC to enforce a zero-trust security model.
 
 ### KalingaSync AI Enterprise | [GitHub](https://github.com/Hiper3D/KalingaSync-AI-Enterprise)
-* Architected a fully serverless, event-driven enterprise workforce platform utilizing AWS Lambda, Amazon API Gateway, and AWS Amplify to ensure zero-maintenance scaling and high availability.
+* Architected a fully serverless, event-driven enterprise workforce platform utilizing 3 core serverless tools (AWS Lambda, Amazon API Gateway, and AWS Amplify) to ensure zero-maintenance scaling and high availability.
 * Leveraged AI guided workflows to efficiently generate and orchestrate secure backend logic via AWS Cognito, enforcing strict RBAC and validating JWT claims.
 * Designed a distributed state management schema using Amazon DynamoDB and integrated a high-speed inference engine for context-aware AI interactions.
 * Configured Amazon S3 for secure object storage and Amazon SES for automated closed-loop notifications, governed by strict AWS IAM policies.
@@ -53,7 +53,7 @@ Detail-oriented infrastructure engineering professional pursuing a B-Tech in Com
 ### PowerTech Enterprise AI Regulatory Agent (POC) | [GitHub](https://github.com/Hiper3D/PowerTech-AI-regulatory-Bot)
 * Developed an architectural prototype for an enterprise-grade AI regulatory agent, utilizing a robust RAG framework designed to autonomously answer domain-specific compliance inquiries.
 * Engineered a persistent data ingestion pipeline utilizing FAISS to efficiently vectorize and retrieve contextual embeddings from complex PDF documents.
-* Decoupled the backend architecture to establish a foundation for future API integrations with enterprise CRM and ERP systems.
+* Decoupled the backend architecture to establish a foundation for future API integrations with 2 primary enterprise system types: CRM and ERP systems.
 
 ## Languages
 * **English:** Professional Working Proficiency
