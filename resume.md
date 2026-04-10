@@ -16,7 +16,7 @@ Detail-oriented infrastructure engineering professional pursuing a B-Tech in Com
 ## Experience
 ### Cloud Computing Intern
 **Rooman Technologies & OSDA** | *BPUT Rourkela, Odisha* | *January 2026 – Present*
-* Executed a comprehensive 400-hour technical internship focusing on enterprise-grade IT [Information Technology - the use of computers to create, process, store, retrieve, and exchange all kinds of data and information] infrastructure and network engineering.
+* Executed a comprehensive 400-hour technical internship focusing on enterprise-grade IT infrastructure and network engineering.
 * Standardized security protocols and managed hardware configurations across multiple simulated enterprise deployments.
 * Resolved network latency challenges by collaborating within technical teams to ensure seamless system administration.
 
